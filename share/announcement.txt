@@ -1,0 +1,33 @@
+Subject: FirePi is growing up. Meet VigilPoint.
+Preview: Your next upgrade brings connected monitoring, a secure website, and a companion mobile app.
+
+Hello,
+
+Your FirePi is getting a new name - and a much bigger job.
+
+Meet VigilPoint, a product of Accunet Services, LLC.
+
+Know when it matters. Relax when it doesn't
+
+We're upgrading FirePi from a local notification device into a complete monitoring platform. VigilPoint will watch your connected equipment, monitor the health of the devices doing the watching, and check the services behind your alerts.
+
+Here's what the upcoming upgrade brings:
+
+- A new secure website and companion app for iPhone and Android. See device status, review alerts, and acknowledge an incident wherever you have a connection.
+- A warning when the monitor goes quiet. If the VigilPoint device loses power or internet connectivity, the platform detects its missing check-ins and notifies your team. Lost contact tells us the device is unreachable; it doesn't identify the cause on its own.
+- A team-first alert sequence. Every alert starts with a push notification to all team members. If nobody acknowledges it quickly, everyone receives an SMS. Still no response? Phone calls follow. Alerts persist until someone on the team acknowledges them.
+- A clear record of responsibility. Acknowledging an alert means "I'm handling this" and stops further escalation. Equipment recovery is tracked separately.
+
+The attached overview gives you a first look at the new web and mobile interfaces.
+
+What do you need to do now?
+
+Watch for your personal upgrade invitation. We'll contact you directly to coordinate the change, confirm what your installation needs, and provide login and app setup instructions. We'll also help your team verify a test alert before relying on the new setup.
+
+The mission hasn't changed: help you know when the equipment you rely on needs attention. VigilPoint gives that mission a more connected foundation.
+
+Accunet Services, LLC
+VigilPoint
+Know when it matters. Relax when it doesn't
+
+Upcoming upgrade preview. Final rollout details will be shared directly. VigilPoint is monitor-only; it never operates equipment or replaces safety systems.
